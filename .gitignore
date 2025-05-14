@@ -1,0 +1,24 @@
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# TypeScript
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# System plików
+.DS_Store
+Thumbs.db
+
+# Inne pliki konfiguracyjne
+*.log
+
+# Environment Files
+.env
