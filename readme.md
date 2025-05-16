@@ -29,7 +29,7 @@ The scraper randomly selects from real browser user-agent strings (Chrome, Firef
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/WebScraper_Captcha-Detect-Solve.git
+   git clone https://github.com/dogopro1/WebScraper_Captcha-Detect-Solve
    ```
 2. Navigate to the project directory:
    ```bash
